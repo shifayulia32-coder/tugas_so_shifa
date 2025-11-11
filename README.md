@@ -34,7 +34,7 @@ grep -R "ERROR" .
 ```
 ## Generet Laporan
 ### disini saya membuat script agar setiap perubahan pada file contohnya ukuran file, jumlah, dan tanggal di buat atau diubah. akan masuk pada file report.txt sebagai laporan
-https://drive.google.com/file/d/1tb-Hiwf3rxafHskpINNFb2w2iVanjyCQ/view?usp=sharing
+https://drive.google.com/file/d/1covzwQRuAjnd6o2wwPWeaUS3KXYFxbWy/view?usp=drivesdk
 
 https://drive.google.com/file/d/1tb-Hiwf3rxafHskpINNFb2w2iVanjyCQ/view?usp=sharing
 ```
