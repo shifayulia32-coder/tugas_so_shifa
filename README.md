@@ -13,13 +13,16 @@ ls
 ```
 ## Script Mengorganisasi File
 ### Script ini akan mengorganisasi setiap file sesuai ekstensinya 
-https://drive.google.com/file/d/15PSk36AhWnH7ygnhQzsW7MTvGPy32Meq/view?usp=sharing
+https://drive.google.com/file/d/1FZTuG_edF2_I5P6lWUlofOLDOQ20VMVt/view?usp=drivesdk
 ```
 mv *.txt *.md documents/
 mv *.jpg *.png *.jpeg images/
 mv *.zip *.tar.gz archives/
 mv *.log logs/
-ls
+ls documents
+ls images
+ls archives
+ls logs
 ```
 ## Fungsi Pencarian
 ### Saya telah menambahkan fitur pencarian agar mudah mencari file tertentu
