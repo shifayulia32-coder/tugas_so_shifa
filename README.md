@@ -34,7 +34,7 @@ grep -R "ERROR" .
 https://drive.google.com/file/d/1tb-Hiwf3rxafHskpINNFb2w2iVanjyCQ/view?usp=sharing
 https://drive.google.com/file/d/1tb-Hiwf3rxafHskpINNFb2w2iVanjyCQ/view?usp=sharing
 ```
-echo "=== laporan file system ===> report.txt
+echo "=== laporan file system ===" > report.txt
 date >> report.txt
 echo >> report.txt
 echo "jumlah file:" >> report.txt
